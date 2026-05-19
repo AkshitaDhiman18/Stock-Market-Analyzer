@@ -35,7 +35,7 @@ This project demonstrates practical implementation of **NumPy operations**, **da
 - Daily Volatility Detection
 - High Risk vs Low Risk Day Identification
 - Risk Classification Logic
-- 
+ 
 ## 💰 Investment Simulation
 - ₹10,000 Investment Simulation
 - Share Purchase Calculation
